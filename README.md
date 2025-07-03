@@ -21,4 +21,4 @@ This project is based on [Dave Gray's](https://www.youtube.com/@DaveGrayTeachesC
 
 ## ✅ Live Website
 
-[🔗 View Live Site](https://bmedeiros2001.github.io/Taco-Shop-Website-HTML/final_project.html)
+[🔗 View Live Site](https://bmedeiros2001.github.io/Little-Taco-Shop-HTML/)
