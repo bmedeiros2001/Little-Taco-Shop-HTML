@@ -18,3 +18,7 @@ This project is based on [Dave Gray's](https://www.youtube.com/@DaveGrayTeachesC
 - **HTML5** - Semantic markup, forms, tables
 - **CSS3** - Basic styling and layout
 - **Images** - Food photography and visual elements
+
+## ✅ Live Website
+
+[🔗 View Live Site](https://bmedeiros2001.github.io/Taco-Shop-Website-HTML/final_project.html)
